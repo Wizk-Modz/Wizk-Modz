@@ -55,7 +55,7 @@ class NoobCoder:
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="30" /> Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wizk-Modz&theme=tokyonight&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph-tawny-beta.vercel.app/graph?username=Wizk-Modz&theme=tokyonight&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 ---
