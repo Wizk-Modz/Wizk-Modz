@@ -85,7 +85,7 @@ class NoobCoder:
   <a href="mailto:dangchinhcbg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/Nhi_cte208">
+  <a href="https://t.me/WizKModz">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
