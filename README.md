@@ -61,7 +61,7 @@ class NoobCoder:
   <tr>
     <td width="50%" valign="top">
       <h4>📦 <a href="https://github.com/Wizk-Modz/Wizk-repack" target="_blank">Wizk-repack</a></h4>
-      <p>Công cụ <b>Bash thuần</b> đóng gói lại (repack) các gói <code>.deb</code> từ hệ thống Debian/Ubuntu đã cài đặt — thay thế nhẹ cho <code>dpkg-repack</code>.</p>
+      <p>A lightweight, <b>pure Bash</b> tool that repacks <code>.deb</code> packages from an installed Debian/Ubuntu system — a lightweight alternative to <code>dpkg-repack</code>.</p>
       <p>
         <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
         <a href="https://github.com/Wizk-Modz/Wizk-repack" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" /></a>
@@ -69,7 +69,7 @@ class NoobCoder:
     </td>
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://github.com/Wizk-Modz/Wizk" target="_blank">Wizk</a></h4>
-      <p>Trình duyệt đơn giản của Wizk Bytes — nhẹ, nhanh, tối giản và dễ dùng cho mọi tác vụ hằng ngày.</p>
+      <p>Wizk Bytes' simple browser — lightweight, fast, and minimal for everyday tasks.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
         <a href="https://github.com/Wizk-Modz/Wizk" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" /></a>
@@ -79,7 +79,7 @@ class NoobCoder:
   <tr>
     <td width="50%" valign="top">
       <h4>🛠 <a href="https://github.com/Wizk-Modz/WizkBuilder" target="_blank">WizkBuilder</a></h4>
-      <p>Bộ công cụ build dựa trên Docker — tự động hóa quy trình đóng gói và triển khai nhanh chóng, tái lập được.</p>
+      <p>A Docker-based build toolkit — automating packaging and deployment with fast, reproducible workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <a href="https://github.com/Wizk-Modz/WizkBuilder" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" /></a>
@@ -87,7 +87,7 @@ class NoobCoder:
     </td>
     <td width="50%" valign="top">
       <h4>🔍 <a href="https://github.com/Wizk-Modz?tab=repositories" target="_blank">More on GitHub</a></h4>
-      <p>Khám phá thêm các dự án, thử nghiệm và công cụ khác trong kho lưu trữ của mình.</p>
+      <p>Explore more projects, experiments, and tools in my repositories.</p>
       <p>
         <a href="https://github.com/Wizk-Modz?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/All_Repos-4285F4?style=flat-square&logo=git&logoColor=white" alt="All Repos" /></a>
       </p>
@@ -152,9 +152,9 @@ class NoobCoder:
   </a>
 </p>
 
-> 💡 **Open for collaboration!** Nếu bạn có ý tưởng hoặc dự án phù hợp với kỹ năng của mình, hãy liên hệ qua **Gmail** hoặc **Telegram**. Mình sẵn sàng hợp tác trong khả năng của bản thân! 🤝
+> 💡 **Open for collaboration!** If you have an idea or project that fits my skills, feel free to reach out via **Gmail** or **Telegram**. I'm happy to collaborate within my capabilities! 🤝
 >
-> ⭐ Nếu thấy dự án hữu ích, hãy **star** repo để ủng hộ mình nhé!
+> ⭐ If you find my work useful, please **star** the repo to show your support!
 
 ---
 
